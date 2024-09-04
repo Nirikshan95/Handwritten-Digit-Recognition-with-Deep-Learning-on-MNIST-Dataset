@@ -10,8 +10,8 @@ This project involves the implementation of a deep learning model using Convolut
 - **Evaluation**: The model was evaluated on the test set with high accuracy.
 
 ## Key Features
-- **High Accuracy**: Achieved over 98% accuracy on the test dataset.
-- **Real-Time Prediction**: The model can be used for real-time handwritten digit recognition.
+- **High Accuracy**
+- **Real-Time Prediction**
 
 ## Dataset
 The MNIST dataset, which includes 60,000 training images and 10,000 testing images, was used for training and evaluating the model. Each image is a 28x28 grayscale image representing a digit from 0 to 9.
